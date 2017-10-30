@@ -1,0 +1,169 @@
+body{
+  background: url('https://static.pexels.com/photos/325185/pexels-photo-325185.jpeg')
+  no-repeat center center fixed;
+  text-align: center;
+  font-style: normal;
+}
+table {
+  border-spacing: 10px;
+  background-color: #051934;
+}
+table.konten1 {
+  border-spacing: 10px;
+  background: rgba(240,255,100,0.3);
+  text-align: center ;
+}
+
+a{
+  border-spacing: 2px;
+  background: rgba(240,255,100,0.3);
+  text-align: center ;
+  font-family: sans-serif;
+}
+
+thead{bor
+  text-align: center;
+  height: 50;
+  border: 5px outset black;
+  border-spacing: 15px;
+  background: rgba(255,400,255,0.5);
+  padding: 50px;
+}
+tr{
+   text-align: center;
+  height: 50;
+  border: 5px outset black;
+  border-spacing: 15px;
+  background: blue;
+}
+th {
+  text-align: center;
+  height: 50;
+  border: 5px outset blue;
+  border-spacing: 15px;
+  background: rgba(255,400,255,0.5);
+}
+th.konten1{
+  text-align: center;
+  height: 50;
+  border: 0px outset orange;
+  border-spacing: 15px;
+  background: rgba(255,400,255,0.0);
+}
+td{
+  align-items: center;
+  text-align: center;
+  border:0px solid white;
+  background: rgba(255,400,255,0.2);
+}
+h2.teks-judul {
+  color: black;
+  font-family: 'Montserrat', arial;
+  text-align: center;
+  font-size: 30px;
+}
+h2.right {
+  font-size: 30px;
+  color: black;
+}
+b.teks-konten3{ //untuk coprright//
+  font-family: 'Times New Roman';
+  font-size: 30px
+  text-align: center;
+  color: black;
+}
+
+p.teks-konten { //untuk coprright//
+  font-family: 'Times New Roman';
+  font-size: 30px
+  text-align: center;
+  color: black;
+}
+
+p.teks-konten2 {
+  font-family: 'Georgia';
+  text-align: justify;
+  color: black;
+}
+p.teks-konten3 {
+  font-family: 'Georgia';
+  text-align: center;
+  color: black;
+}
+p.teks-konten4 {
+  font-family: 'Georgia';
+  text-align: center;
+  color: blue;
+}
+p.teks-konten5 {
+  font-family: 'Georgia';
+  text-align: center;
+  color: black;
+}
+p.teks-konten6 {
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+p.teks-konten7 {
+  font-family: 'Georgia';
+  text-align: center;
+  color: black;
+}
+table.10{
+border-width: medium;
+
+}
+
+
+#Tour {
+  font-family: 'times New Roman';
+  width: 100%;
+  font-size: 20px;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+#Promo {
+  font-family: 'Georgia';
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+
+#branchoffice {
+  font-family: 'Georgia';
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+
+#gallery {
+  font-family: 'Georgia';
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+#ContactPerson {
+  font-family: 'Georgia';
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 0px;
+}
+#About {
+  font-family: 'Georgia';
+  width: 100%;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
